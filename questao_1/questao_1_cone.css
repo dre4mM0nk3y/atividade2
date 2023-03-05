@@ -1,0 +1,5 @@
+#conico {
+    height: 20rem;
+    width: 20rem;
+    background-image: conic-gradient(rgba(20, 20, 255, 20), rgba(20, 255, 20, 20), rgba(20, 20, 20, 255));
+}

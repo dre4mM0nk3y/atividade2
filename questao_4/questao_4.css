@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+}
+h2 {
+    color: darkgreen;
+}
+body {
+    background-image: linear-gradient(to left, brown, gray);
+    font-family: Arial, Helvetica, sans-serif;
+}

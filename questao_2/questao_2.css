@@ -1,0 +1,5 @@
+#arco {
+    height: 20rem;
+    width: 60rem;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, darkblue, purple);
+}
